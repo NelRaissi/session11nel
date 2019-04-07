@@ -1,0 +1,73 @@
+#content{
+    width: 960px;
+    margin:150px;  
+    float: left;
+}
+
+.one {
+   display: block;
+   float: left;
+}
+.two {
+
+display:none;
+}
+.one :hover + .two {
+   display:block;
+}
+.three {
+   display: block;
+   float: left;
+}
+.four {
+
+display:none;
+}
+.three :hover + .four {
+   display:block;
+}
+.five {
+   display: block;
+   float: left;
+}
+.six {
+
+display:none;
+}
+.five :hover + .six {
+   display:block;
+}
+.seven {
+   display: block;
+   float: left;
+}
+.eight {
+
+display:none;
+}
+.seven :hover + .eight {
+   display:block;
+}
+.nine {
+   display: block;
+   float: left;
+}
+.ten {
+
+display:none;
+}
+.nine :hover + .ten {
+   display:block;
+}
+.eleven {
+   display: block;
+}
+.towelve {
+
+display:none;
+}
+.eleven :hover + .towelve {
+   display:block;
+}
+
+
